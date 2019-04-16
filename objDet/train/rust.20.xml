@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rust</folder>
+	<filename>rust.20.jpg</filename>
+	<path>/home/anirban/rustnorust_b/train/rust/rust.20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>116</ymin>
+			<xmax>362</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
